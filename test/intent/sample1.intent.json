@@ -1,5 +1,5 @@
 {
-  "utterance": "tell me a joke" | "be funny",
+  "utterance": "tell me a joke",
   "intent_type": "RandomEventIntent",
   "intent": {
     "RandomEventKeyword": "be funny"
